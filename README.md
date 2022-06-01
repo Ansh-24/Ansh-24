@@ -1,4 +1,4 @@
-#Hello, I'm Ansh Malhotra
+# Hello 👋, I'm Ansh Malhotra
 -  I’m interested in the intersection of Financial Economics and Data Science
 -  I’m currently pursuing a professional certification in Data Science from IBM
 

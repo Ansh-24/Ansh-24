@@ -1,6 +1,5 @@
 <h1 align="center">Hello 👋, I'm Ansh Malhotra</a></h1>
 <h3 align=center>I am a seasoned Economics researcher deeply interested in the intersection of financial economics and data science.</h3>
-![](https://komarev.com/ghpvc/?username=Ansh-24)
 
 -  I’m interested in the intersection of Financial Economics and Data Science
 -  I’m currently learning Data Science

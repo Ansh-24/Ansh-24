@@ -1,6 +1,8 @@
 # Hello 👋, I'm Ansh Malhotra
+<h3 align=center>I am a seasoned Economics researcher deeply interested in the intersection of financial economics and data science.</h3>
 -  I’m interested in the intersection of Financial Economics and Data Science
--  I’m currently pursuing a professional certification in Data Science from IBM
+-  I’m currently learning Data Science
+-  Find my personal blog here: https://anshmalhotra2011.wixsite.com/my-site-1
 
 <!---
 Ansh-24/Ansh-24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

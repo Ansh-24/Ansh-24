@@ -1,5 +1,6 @@
-# Hello 👋, I'm Ansh Malhotra
+<h1 align="center">Hello 👋, I'm Ansh Malhotra</a></h1>
 <h3 align=center>I am a seasoned Economics researcher deeply interested in the intersection of financial economics and data science.</h3>
+
 -  I’m interested in the intersection of Financial Economics and Data Science
 -  I’m currently learning Data Science
 -  Find my personal blog here: https://anshmalhotra2011.wixsite.com/my-site-1
